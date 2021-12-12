@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nbminerproxy)](https://github.com/nbminerproxy/github-readme-stats)
+
 # NBMinerProxy	
 
    NBMinerProxy 是一个挖矿代理软件。
