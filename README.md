@@ -1,3 +1,4 @@
+
 # NBMinerProxy	
 
    NBMinerProxy 是一个挖矿代理软件。
