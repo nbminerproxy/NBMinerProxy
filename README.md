@@ -1,7 +1,7 @@
 # NBMinerProxy	
 
    NBMinerProxy 是一个挖矿代理软件。  
-   软件定制：Telegram：@zaxblog    ， https://t.me/zaxblog
+   软件定制：Telegram：@nbminerproxy    ， https://t.me/nbminerproxy
 
 ## 1、NBMinerProxy什么作用？	
 
